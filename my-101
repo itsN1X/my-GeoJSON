@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e924ff",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9945853948593,
+          28.589698498738993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0020fd",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04880356788635,
+          28.57437939198178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e924ff",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01231479644775,
+          28.586010246187403
+        ]
+      }
+    }
+  ]
+}
