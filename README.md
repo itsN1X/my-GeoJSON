@@ -5,7 +5,6 @@
 - [ ] Add TimeStamp;
 - [ ] Add UiDtag;
 
-<\sub>
 
 ###### Total points per profile/account
 = 30k (1/day)
