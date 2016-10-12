@@ -1,6 +1,6 @@
 # my-GeoJSON
 
-###ABout the Project:
+###About the Project:
 
 * To map the Time/Coordinates/Profile using OpenStreetMaps;
 * To throughput the data with visually-encoded information;
