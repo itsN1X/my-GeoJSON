@@ -3,6 +3,8 @@
 - [x] Add TimeStamp;
 - [ ] Define all Datasets
 - [ ] Add UiDtag;
+- [ ] Define ColorCoding;
+- [ ] Add ColorCoding;
 
 
 ##### Total points per profile/account
