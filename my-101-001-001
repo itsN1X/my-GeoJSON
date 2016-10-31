@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000fff",
+        "marker-color": "#0ff00f",
         "marker-size": "medium",
         "marker-symbol": "town-hall"
       },
